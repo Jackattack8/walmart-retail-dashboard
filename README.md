@@ -6,7 +6,7 @@ A retail vendor analytics dashboard built in Power BI on synthetic POS data mode
 
 ## What This Is
 
-Walmart vendors rely on their POS data. Every week a vendor analyst pulls a Scintilla extract and answers four questions for their buyer:
+Walmart vendors rely on their POS data. Every week a vendor analyst pulls a Scintilla extract and answers four questions for their buyer: 
 
 - Are my items selling?
 - Are they on the shelf when a customer wants them?
